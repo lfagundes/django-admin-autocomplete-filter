@@ -16,7 +16,7 @@ setup(
     author='Farhan Khan',
     author_email='farhan0581@gmail.com',
     install_requires=[
-        'django>=2.0',
+        'Django>=2.0',
     ],
     classifiers=[
         'Framework :: Django',
